@@ -18,8 +18,7 @@ Ideal for data analysts and aspiring data scientists looking to strengthen their
 
 - **Python**
 - **Pandas** – Data manipulation
-- **NumPy** – Numerical calculations
-- **Matplotlib / Seaborn** – Data visualization
+- **Plotly** – Data visualization
 - **Jupyter Notebook** – Interactive development
 
 ---
